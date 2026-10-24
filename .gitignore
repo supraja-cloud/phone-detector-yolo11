@@ -1,0 +1,22 @@
+# Python Bytecode and Cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Environments
+.env
+.venv/
+venv/
+env/
+ENV/
+
+# Model Weights (Ultralytics auto-downloads pretrained models on first run)
+*.pt
+
+# OS & Editor generated files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.log
